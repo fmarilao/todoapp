@@ -2,4 +2,4 @@
 
 <H3>React + Redux + AntDesign</H3>
 
-view online http://fmarilao.tech/todoApp
+view online http://todoapp.fmarilao.tech
