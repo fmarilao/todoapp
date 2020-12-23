@@ -1,0 +1,14 @@
+.ant-layout-header {
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+  background-color: #1890ff !important;
+  color: white !important;
+}
+
+.ant-layout-footer {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0px;
+}
