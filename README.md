@@ -1,5 +1,9 @@
-<H1>ToDo App</H1>
+### :computer: Todo App Project :calendar:
 
-<H3>React + Redux + AntDesign</H3>
+Was developed to train in the following technologies:
 
-view online http://todoapp.fmarilao.tech
+React + Redux + AntDesign
+
+<img src="https://i.ibb.co/9tZtxwV/todoApp.png"/>
+
+deployed at: :link: http://todoapp.fmarilao.tech
